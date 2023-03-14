@@ -1,6 +1,12 @@
 # asus-strix-b760-i-hackintosh
 13900f+b760i+rx570
 
+## geekbench 5
+![img.png](img.png)
+
+## geekbench 6
+![img_1.png](img_1.png)
+
 ## opencore 0.9.0
 
 ## Hardware
