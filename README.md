@@ -22,7 +22,8 @@
 ### close
 
 - Resize BAR Support
-- Password protection of Runtime Variables （`If you need to close cfg-lock, it is necessary to close it here`）
+- Password protection of Runtime Variables 
+（`If you need to unlock cfg-lock, it is necessary to close it here`）
 - Launch CSM
 - OS Type -> Other OS
 - OS Type -> Custom
