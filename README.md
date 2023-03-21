@@ -2,10 +2,10 @@
 13900f+b760i+rx570+oc 0.9.0
 
 ## geekbench 5
-![img.png](img.png)
+![img_4.png](img_4.png)
 
 ## geekbench 6
-![img_1.png](img_1.png)
+![img_2.png](img_2.png)
 
 ## Hardware
 - cpu 13900F
@@ -38,3 +38,5 @@
 ![3491679360877_.pic.jpg](3491679360877_.pic.jpg)
 ![3511679360879_.pic.jpg](3511679360879_.pic.jpg)
 ![3531679360882_.pic.jpg](3531679360882_.pic.jpg)
+
+## Unlock cfg-lock
