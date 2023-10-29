@@ -1,5 +1,6 @@
 # asus-strix-b760-i-hackintosh
-13900f+b760i+rx570+oc 0.9.0
+1. 13900f+b760i+rx570+oc 0.9.0 Ventura
+2. 13900f+b760i+rx570+oc 0.9.5 Sonoma
 
 ## geekbench 5
 ![img_4.png](img/img_4.png)
